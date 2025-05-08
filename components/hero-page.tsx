@@ -12,7 +12,8 @@ export default function HeroPage() {
                   <div className="sm:max-w-xl max-w-xl bg-secondary/80 p-4 rounded-lg">
                     <h1 className="text-3xl sm:text-5xl font-bold dark:text-white text-center">Devenir un meilleur développeur React et Next</h1>
                     <Input type="email" name='email' placeholder="Email"  className='dark:bg-white'/>
-                    <Button size="lg" className='w-full p-6 mt-4'>S'inscrire</Button>
+                    <Button size="lg" className="w-full p-6 mt-4">S&apos;'inscrire</Button>
+                    
                   </div>
                 </div>
             </div>
