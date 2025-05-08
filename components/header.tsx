@@ -22,7 +22,7 @@ export default function Header() {
           <div className="flex items-center justify-center gap-4">
             {/* <ThemeToggle /> */}
             <ModeToggle />
-            <Link href="/login">Login/Register</Link>
+            <Link href="/auth">Login/Register</Link>
             {/* <Menu humburger menu */}
   
           </div>
